@@ -1,0 +1,15 @@
+C:\Users\Yassa\source\repos\OS-PROJECT\bin\Debug\net6.0\OS-PROJECT.exe
+C:\Users\Yassa\source\repos\OS-PROJECT\bin\Debug\net6.0\OS-PROJECT.deps.json
+C:\Users\Yassa\source\repos\OS-PROJECT\bin\Debug\net6.0\OS-PROJECT.runtimeconfig.json
+C:\Users\Yassa\source\repos\OS-PROJECT\bin\Debug\net6.0\OS-PROJECT.dll
+C:\Users\Yassa\source\repos\OS-PROJECT\bin\Debug\net6.0\OS-PROJECT.pdb
+C:\Users\Yassa\source\repos\OS-PROJECT\obj\Debug\net6.0\OS-PROJECT.csproj.AssemblyReference.cache
+C:\Users\Yassa\source\repos\OS-PROJECT\obj\Debug\net6.0\OS-PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yassa\source\repos\OS-PROJECT\obj\Debug\net6.0\OS-PROJECT.AssemblyInfoInputs.cache
+C:\Users\Yassa\source\repos\OS-PROJECT\obj\Debug\net6.0\OS-PROJECT.AssemblyInfo.cs
+C:\Users\Yassa\source\repos\OS-PROJECT\obj\Debug\net6.0\OS-PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Yassa\source\repos\OS-PROJECT\obj\Debug\net6.0\OS-PROJECT.dll
+C:\Users\Yassa\source\repos\OS-PROJECT\obj\Debug\net6.0\refint\OS-PROJECT.dll
+C:\Users\Yassa\source\repos\OS-PROJECT\obj\Debug\net6.0\OS-PROJECT.pdb
+C:\Users\Yassa\source\repos\OS-PROJECT\obj\Debug\net6.0\OS-PROJECT.genruntimeconfig.cache
+C:\Users\Yassa\source\repos\OS-PROJECT\obj\Debug\net6.0\ref\OS-PROJECT.dll
